@@ -1,0 +1,50 @@
+.body{
+    border: 1px solid lightgray;
+    width: 520px;
+    height: 320px;
+    padding: 50px;
+    margin: 10px auto;
+    border-radius: 12px;
+    margin: 50px auto;
+}
+
+
+.img1{
+    width: 100px;
+    height: 94px;
+    border-radius: 50%;
+    float: left;
+    border: 1px solid rgb(191, 212, 220);
+    margin-left: 25px;
+}
+
+.img2{
+    width: 100px;
+    height: 94px;
+    float: right;
+    border-radius: 50%;
+    margin-right: 201px;
+}
+
+.FirstHeading{
+    font-family: 'Nanum Gothic', sans-serif;
+    /* margin: -18px 10px; */
+    margin-bottom: -8px;
+}
+.SecoundHeading{
+    color: rgb(139, 117, 117);
+    font-size: 20px;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-bottom: 40px;
+}
+
+.vl {
+    border-top: 1px solid lightgray;
+    margin: 174px -50px;
+}
+.manage{
+    text-decoration: none;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 180px -11px;
+    margin-top: -152px;
+}
